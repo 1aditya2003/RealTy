@@ -1,5 +1,5 @@
 # RealTy
-a work by me and my colleague during our internship.
+A work by me and my colleague during our internship.
  This website is about Real Estate.
  where users can log in, register, and view property 
  Send an inquiry and contact the agent.  
